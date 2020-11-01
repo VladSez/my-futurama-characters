@@ -4,7 +4,7 @@ import Fuse from "fuse.js";
 import Highlight from "react-highlighter";
 
 import characters from "./characters.json";
-
+console.log("kek");
 const options = {
   shouldSort: true,
   includeMatches: true,
